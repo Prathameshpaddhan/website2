@@ -3,8 +3,8 @@ marquee{ color:green;}
 body{ background-color: orange;}
 a{
 display: block;
-width: 700px;
-height: 75px;
+width: 35px;
+height: 10px;
 font-size : 100px;
 background-color: #44444c;
 color: lightblue;
